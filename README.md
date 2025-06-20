@@ -10,6 +10,8 @@ Let’s connect and build something remarkable together!
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=srijanbahal&label=Profile%20views&color=0e75b6&style=flat" alt="srijanbahal" />
 </p>
+
+
 ---
 - 🔭 I’m currently building **AI + LLM agents, educational tools, and ML-based projects**
 
