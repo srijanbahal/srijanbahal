@@ -1,7 +1,3 @@
-<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</div>
-
 <h1 align="center">Hi 👋, I'm Srijan Bahal</h1>
 <h3 align="center">
 A passionate full-stack & AI developer, currently pursuing B.Tech and diving deep into Machine Learning, LLMs, and full-stack projects.<br>
