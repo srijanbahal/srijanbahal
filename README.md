@@ -19,7 +19,7 @@ Let’s connect and build something remarkable together!
 
 - 👨‍💻 Explore all my work at: [GitHub/srijanbahal](https://github.com/srijanbahal)
 
-- 📫 Reach me at: **srijanbahal@gmail.com**
+- 📫 Reach me at: **srijanbahal10@gmail.com**
 
 - ⚡ Fun fact: **I think building from scratch is more fun than copying! 😉**
 
