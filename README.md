@@ -28,16 +28,16 @@ Let’s connect and build something remarkable together!
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/srijanbahal" target="_blank">
+  <a href="https://twitter.com/srijan_bahal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/srijanbahal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/srijanbahal" target="_blank">
+  <a href="https://instagram.com/wacky_potato" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/srijanbahal" target="_blank">
+  <a href="https://leetcode.com/srijanbahal04" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
