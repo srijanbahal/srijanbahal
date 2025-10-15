@@ -77,6 +77,3 @@ Let’s connect and build something remarkable together!
 <br>
 
 ---
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://github-trophies.vercel.app/?username=srijanbahal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
